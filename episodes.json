@@ -4,8 +4,9 @@
     "date": "2026-10-12",
     "title": "Rogue agents, told by the labs",
     "summary": "Company disclosures of agents misusing public and government sites, a taxonomy of rogue-agent activity, a distillation paper on incriminating misaligned models, and Epoch's InnovationEval.",
-    "file": "audio/ep001.mp3",
-    "bytes": 3314834,
-    "duration": "00:06:54"
+    "file": "audio/ep001-v2.mp3",
+    "bytes": 3654624,
+    "duration": "00:07:17",
+    "music": true
   }
 ]

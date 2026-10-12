@@ -31,7 +31,13 @@ DESC = (
 )
 AUTHOR, EMAIL, LANG = "Claude", "noreply@anthropic.com", "en-GB"
 MUSIC_CREDIT = (
-    " Music: intro and outro beds from the Threshold & Bar kit."
+    " Music: intro and interludes from \u201cDans la tentative d\u2019accomplir"
+    " quelque chose\u201d by Frederic Lardon feat. Laura Palm\u00e9e (CC0)."
+    " Outro: \u201cCrap Transition\u201d by Jesse Spillane, "
+    "https://freemusicarchive.org/music/Jesse_Spillane/Art_of_Presentation/"
+    "Jesse_Spillane_-_Art_of_Presentation_-_04_Crap_Transition/"
+    " licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/);"
+    " trimmed, faded and mixed with narration."
 )
 # 2000x2000 sRGB JPEG; Apple wants 1400-3000 px square, JPEG or PNG.
 COVER = "cover.jpg"
