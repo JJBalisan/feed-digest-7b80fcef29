@@ -1,0 +1,12 @@
+.DS_Store
+.git-credentials
+*.wav
+.deploy-token
+
+# launchd agent carries absolute paths and the local username - keep it off the public repo
+deploy/*.plist
+
+# test and lint caches
+__pycache__/
+.pytest_cache/
+.ruff_cache/
