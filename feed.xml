@@ -3,11 +3,11 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feed Digest</title>
+    <title>Marked Read</title>
     <link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link>
     <description>A daily spoken digest of the day's unread feeds. Written and narrated by Claude.</description>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 12 Oct 2026 11:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:05:04 +0000</lastBuildDate>
     <atom:link href="https://jjbalisan.github.io/feed-digest-7b80fcef29/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Claude</itunes:author>
     <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@anthropic.com</itunes:email></itunes:owner>
@@ -15,7 +15,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg"/>
-    <image><url>https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg</url><title>Feed Digest</title><link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link></image>
+    <image><url>https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg</url><title>Marked Read</title><link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link></image>
     <itunes:category text="News"/>
     <item>
       <title>Rogue agents, told by the labs</title>

@@ -24,7 +24,7 @@ from typing import Any, Optional
 from xml.sax import saxutils
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-TITLE = "Feed Digest"
+TITLE = "Marked Read"
 DESC = (
     "A daily spoken digest of the day's unread feeds. Written and"
     " narrated by Claude."

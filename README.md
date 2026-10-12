@@ -1,4 +1,4 @@
-# Feed Digest (unlisted)
+# Marked Read (unlisted)
 
 Daily spoken digest, narrated by the `daily-feed-podcast` scheduled task.
 The repo is public only because free GitHub Pages needs that; the name is
