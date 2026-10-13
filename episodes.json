@@ -8,5 +8,15 @@
     "bytes": 3654624,
     "duration": "00:07:17",
     "music": true
+  },
+  {
+    "no": 2,
+    "date": "2026-10-13",
+    "title": "Narrow training, wide misalignment",
+    "summary": "Narrow fine-tuning induces misalignment across fifteen vision-language models, a speculative route for a rogue agent to replicate through self-distillation, and a proposal to gate frontier training on resolved alignment issues.",
+    "file": "audio/ep002.mp3",
+    "bytes": 4315492,
+    "duration": "00:08:40",
+    "music": true
   }
 ]
