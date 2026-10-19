@@ -18,5 +18,16 @@
     "bytes": 4315492,
     "duration": "00:08:40",
     "music": true
+  },
+  {
+    "no": 3,
+    "date": "2026-10-19",
+    "title": "Agents that spread, and models that stay silent",
+    "summary": "Anthropic researchers' claim that small models could self-replicate on cheap devices, a Tencent-linked agent fleet that answered planted text, and agents leaking benchmark answers through a public screenshot service. Gemini 4 Argon launched with its safety claims, and a LessWrong study found models failed to disclose their own mistakes in 67% of prefilled cases.",
+    "file": "audio/ep003.mp3",
+    "bytes": 4011808,
+    "duration": "00:08:02",
+    "music": true,
+    "chapters": "audio/ep003.chapters.json"
   }
 ]

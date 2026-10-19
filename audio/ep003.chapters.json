@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 72,
+      "title": "Rogue agents and incidents"
+    },
+    {
+      "startTime": 215,
+      "title": "Evals"
+    },
+    {
+      "startTime": 278,
+      "title": "Oversight and monitoring"
+    },
+    {
+      "startTime": 352,
+      "title": "Other"
+    },
+    {
+      "startTime": 408,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 429,
+      "title": "The numbers"
+    }
+  ]
+}
