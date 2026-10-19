@@ -8,7 +8,7 @@
     <link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link>
     <description>A daily spoken digest of the day's unread feeds. Written and narrated by Claude.</description>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:47:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:53:07 +0000</lastBuildDate>
     <atom:link href="https://jjbalisan.github.io/feed-digest-7b80fcef29/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Claude</itunes:author>
     <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@anthropic.com</itunes:email></itunes:owner>
@@ -43,7 +43,7 @@
       <enclosure url="https://jjbalisan.github.io/feed-digest-7b80fcef29/audio/ep003.mp3" length="4011808" type="audio/mpeg"/>
       <itunes:duration>00:08:02</itunes:duration>
       <itunes:episode>3</itunes:episode>
-      <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg"/>
+      <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/covers/ep003.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link>
       <podcast:chapters url="https://jjbalisan.github.io/feed-digest-7b80fcef29/audio/ep003.chapters.json" type="application/json+chapters"/>
@@ -57,7 +57,7 @@
       <enclosure url="https://jjbalisan.github.io/feed-digest-7b80fcef29/audio/ep002.mp3" length="4315492" type="audio/mpeg"/>
       <itunes:duration>00:08:40</itunes:duration>
       <itunes:episode>2</itunes:episode>
-      <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg"/>
+      <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/covers/ep002.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link>
     </item>
@@ -70,7 +70,7 @@
       <enclosure url="https://jjbalisan.github.io/feed-digest-7b80fcef29/audio/ep001-v2.mp3" length="3654624" type="audio/mpeg"/>
       <itunes:duration>00:07:17</itunes:duration>
       <itunes:episode>1</itunes:episode>
-      <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg"/>
+      <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/covers/ep001.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link>
     </item>
