@@ -86,8 +86,10 @@ def item(e: Mapping[str, Any], base: str) -> str:
     Args:
         e: An episodes.json entry with no, date, title, summary, file,
             bytes and duration keys, an optional music flag that appends
-            the music credit to the summary, and an optional chapters key
-            (the chapters JSON file's path under the base URL).
+            the music credit to the summary, an optional chapters key
+            (the chapters JSON file's path under the base URL) and an
+            optional cover key (the episode artwork's path; the show cover
+            is used without it).
         base: The public base URL, without a trailing slash.
 
     Returns:
@@ -99,7 +101,7 @@ def item(e: Mapping[str, Any], base: str) -> str:
         hour=17, tzinfo=datetime.timezone.utc
     )
     url = saxutils.escape(base + "/" + e["file"])
-    cover = saxutils.escape(base + "/" + COVER)
+    cover = saxutils.escape(base + "/" + e.get("cover", COVER))
     link = saxutils.escape(base)
     chapters = ""
     if e.get("chapters"):

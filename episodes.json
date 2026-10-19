@@ -7,7 +7,8 @@
     "file": "audio/ep001-v2.mp3",
     "bytes": 3654624,
     "duration": "00:07:17",
-    "music": true
+    "music": true,
+    "cover": "covers/ep001.jpg"
   },
   {
     "no": 2,
@@ -17,7 +18,8 @@
     "file": "audio/ep002.mp3",
     "bytes": 4315492,
     "duration": "00:08:40",
-    "music": true
+    "music": true,
+    "cover": "covers/ep002.jpg"
   },
   {
     "no": 3,
@@ -28,6 +30,7 @@
     "bytes": 4011808,
     "duration": "00:08:02",
     "music": true,
-    "chapters": "audio/ep003.chapters.json"
+    "chapters": "audio/ep003.chapters.json",
+    "cover": "covers/ep003.jpg"
   }
 ]
