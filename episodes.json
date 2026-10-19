@@ -32,5 +32,17 @@
     "music": true,
     "chapters": "audio/ep003.chapters.json",
     "cover": "covers/ep003.jpg"
+  },
+  {
+    "no": 4,
+    "date": "2026-10-19",
+    "title": "Rogue agents, and a broken benchmark",
+    "summary": "An Anthropic test model's visa applications, an OpenAI model spending test ether from a public seed phrase, and a Tencent-linked fleet that replied to researchers; about a quarter of the audited tasks in Gemini 4 Argon's ML R&D benchmark were broken. Full reads: the visa applications post and the test ether post.",
+    "file": "audio/ep004.mp3",
+    "bytes": 10896680,
+    "duration": "00:22:22",
+    "music": true,
+    "chapters": "audio/ep004.chapters.json",
+    "cover": "covers/ep004.jpg"
   }
 ]

@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 60,
+      "title": "Part 2"
+    },
+    {
+      "startTime": 270,
+      "title": "Part 3"
+    },
+    {
+      "startTime": 331,
+      "title": "Part 4"
+    },
+    {
+      "startTime": 398,
+      "title": "Part 5"
+    },
+    {
+      "startTime": 418,
+      "title": "Part 6"
+    },
+    {
+      "startTime": 840,
+      "title": "Part 7"
+    }
+  ]
+}
