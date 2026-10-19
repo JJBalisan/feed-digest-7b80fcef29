@@ -42,6 +42,7 @@
     "bytes": 10896680,
     "duration": "00:22:22",
     "music": true,
-    "chapters": "audio/ep004.chapters.json"
+    "chapters": "audio/ep004.chapters.json",
+    "cover": "covers/ep004.jpg"
   }
 ]
