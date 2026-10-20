@@ -44,5 +44,17 @@
     "music": true,
     "chapters": "audio/ep004.chapters.json",
     "cover": "covers/ep004.jpg"
+  },
+  {
+    "no": 5,
+    "date": "2026-10-20",
+    "title": "Attacks split across agents and time",
+    "summary": "Monitors that read one agent, or one stretch of context, at a time miss attacks split across agents or across compactions; evals can lie to models or shape the evidence they later read; a funding experiment uses AI to rank proposals. Full reads: the multi-agent attack red-team paper and the split-across-compactions monitoring study.",
+    "file": "audio/ep005.mp3",
+    "bytes": 20225364,
+    "duration": "00:41:47",
+    "music": true,
+    "chapters": "audio/ep005.chapters.json",
+    "cover": "covers/ep005.jpg"
   }
 ]
