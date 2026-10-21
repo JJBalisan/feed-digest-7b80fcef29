@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 65,
+      "title": "Rogue agents and incidents"
+    },
+    {
+      "startTime": 259,
+      "title": "Oversight and monitoring"
+    },
+    {
+      "startTime": 502,
+      "title": "Evals"
+    },
+    {
+      "startTime": 666,
+      "title": "Governance and policy"
+    },
+    {
+      "startTime": 715,
+      "title": "Funding and organisations"
+    },
+    {
+      "startTime": 777,
+      "title": "Economics"
+    },
+    {
+      "startTime": 826,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 864,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 1336,
+      "title": "Full read: Compaction attacks"
+    }
+  ]
+}

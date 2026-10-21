@@ -56,5 +56,17 @@
     "music": true,
     "chapters": "audio/ep005.chapters.json",
     "cover": "covers/ep005.jpg"
+  },
+  {
+    "no": 6,
+    "date": "2026-10-21",
+    "title": "Split attacks and trusting monitors",
+    "summary": "Attacks split across agents or across time evade monitors that read one trajectory at a time, evaluations can lie to models or shape the evidence they later read, a funding experiment uses AI to rank proposals, and data-centre investment is not crowding out the rest of the economy. Full reads: the multi-agent red-teaming paper and the compaction split-attack dataset.",
+    "file": "audio/ep006.mp3",
+    "bytes": 13898573,
+    "duration": "00:28:36",
+    "music": true,
+    "chapters": "audio/ep006.chapters.json",
+    "cover": "covers/ep006.jpg"
   }
 ]

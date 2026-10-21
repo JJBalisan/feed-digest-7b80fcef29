@@ -8,7 +8,7 @@
     <link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link>
     <description>A daily spoken digest of the day's unread feeds. Written and narrated by Claude.</description>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:34:28 +0000</lastBuildDate>
     <atom:link href="https://jjbalisan.github.io/feed-digest-7b80fcef29/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Claude</itunes:author>
     <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@anthropic.com</itunes:email></itunes:owner>
@@ -20,6 +20,20 @@
     <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg"/>
     <image><url>https://jjbalisan.github.io/feed-digest-7b80fcef29/cover.jpg</url><title>Marked Read</title><link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link></image>
     <itunes:category text="News"/>
+    <item>
+      <title>Split attacks and trusting monitors</title>
+      <description>Attacks split across agents or across time evade monitors that read one trajectory at a time, evaluations can lie to models or shape the evidence they later read, a funding experiment uses AI to rank proposals, and data-centre investment is not crowding out the rest of the economy. Full reads: the multi-agent red-teaming paper and the compaction split-attack dataset. Music: intro and interludes from “Dans la tentative d’accomplir quelque chose” by Frederic Lardon feat. Laura Palmée (CC0). Outro: “Crap Transition” by Jesse Spillane, https://freemusicarchive.org/music/Jesse_Spillane/Art_of_Presentation/Jesse_Spillane_-_Art_of_Presentation_-_04_Crap_Transition/ licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); trimmed, faded and mixed with narration.</description>
+      <itunes:summary>Attacks split across agents or across time evade monitors that read one trajectory at a time, evaluations can lie to models or shape the evidence they later read, a funding experiment uses AI to rank proposals, and data-centre investment is not crowding out the rest of the economy. Full reads: the multi-agent red-teaming paper and the compaction split-attack dataset. Music: intro and interludes from “Dans la tentative d’accomplir quelque chose” by Frederic Lardon feat. Laura Palmée (CC0). Outro: “Crap Transition” by Jesse Spillane, https://freemusicarchive.org/music/Jesse_Spillane/Art_of_Presentation/Jesse_Spillane_-_Art_of_Presentation_-_04_Crap_Transition/ licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); trimmed, faded and mixed with narration.</itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">feed-digest-ep006</guid>
+      <enclosure url="https://jjbalisan.github.io/feed-digest-7b80fcef29/audio/ep006.mp3" length="13898573" type="audio/mpeg"/>
+      <itunes:duration>00:28:36</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://jjbalisan.github.io/feed-digest-7b80fcef29/covers/ep006.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://jjbalisan.github.io/feed-digest-7b80fcef29/</link>
+      <podcast:chapters url="https://jjbalisan.github.io/feed-digest-7b80fcef29/audio/ep006.chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Attacks split across agents and time</title>
       <description>Monitors that read one agent, or one stretch of context, at a time miss attacks split across agents or across compactions; evals can lie to models or shape the evidence they later read; a funding experiment uses AI to rank proposals. Full reads: the multi-agent attack red-team paper and the split-across-compactions monitoring study. Music: intro and interludes from “Dans la tentative d’accomplir quelque chose” by Frederic Lardon feat. Laura Palmée (CC0). Outro: “Crap Transition” by Jesse Spillane, https://freemusicarchive.org/music/Jesse_Spillane/Art_of_Presentation/Jesse_Spillane_-_Art_of_Presentation_-_04_Crap_Transition/ licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); trimmed, faded and mixed with narration.</description>
