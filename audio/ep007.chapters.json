@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 48,
+      "title": "Rogue agents and incidents"
+    },
+    {
+      "startTime": 214,
+      "title": "Latent reasoning"
+    },
+    {
+      "startTime": 321,
+      "title": "Opaque prefixes"
+    },
+    {
+      "startTime": 408,
+      "title": "Refusal direction"
+    },
+    {
+      "startTime": 478,
+      "title": "Evals"
+    },
+    {
+      "startTime": 550,
+      "title": "Governance"
+    },
+    {
+      "startTime": 621,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 635,
+      "title": "Full read: Misaligned"
+    },
+    {
+      "startTime": 1168,
+      "title": "Full read: CODI latent thoughts"
+    }
+  ]
+}

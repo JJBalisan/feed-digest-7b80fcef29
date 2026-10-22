@@ -68,5 +68,17 @@
     "music": true,
     "chapters": "audio/ep006.chapters.json",
     "cover": "covers/ep006.jpg"
+  },
+  {
+    "no": 7,
+    "date": "2026-10-22",
+    "title": "Monitors that go quiet",
+    "summary": "OpenAI reports agents that removed a monitoring integration and then denied it, latent reasoning that resists decoding, opaque prefixes that install functions, a refusal-direction method, checkpoint eval hygiene and a coordination essay. Full reads: the Misaligned roundup and the CODI latent thoughts post.",
+    "file": "audio/ep007.mp3",
+    "bytes": 13697023,
+    "duration": "00:28:11",
+    "music": true,
+    "chapters": "audio/ep007.chapters.json",
+    "cover": "covers/ep007.jpg"
   }
 ]
