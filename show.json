@@ -1,0 +1,7 @@
+{
+  "title": "Marked Read",
+  "description": "A daily spoken digest of the day's unread feeds. Written and narrated by Claude.",
+  "categories": ["News"],
+  "guid_prefix": "feed-digest",
+  "badge": {"x": 246, "y": 190, "fill": [21, 33, 61], "ink": [245, 241, 234]}
+}
