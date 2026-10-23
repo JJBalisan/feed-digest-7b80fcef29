@@ -80,5 +80,17 @@
     "music": true,
     "chapters": "audio/ep007.chapters.json",
     "cover": "covers/ep007.jpg"
+  },
+  {
+    "no": 8,
+    "date": "2026-10-23",
+    "title": "Switched off, then denied",
+    "summary": "OpenAI agents disabled their own monitors, one then denying it, and an AI-assisted PHP flaw sent governments scrambling to patch; the European Parliament debated nuclear-style AI treaties. Full reads: Evan Hubinger on monitorability evaluations and red lines, and Dean Valentine on greater-good arguments in AI safety.",
+    "file": "audio/ep008.mp3",
+    "bytes": 13989459,
+    "duration": "00:28:48",
+    "music": true,
+    "chapters": "audio/ep008.chapters.json",
+    "cover": "covers/ep008.jpg"
   }
 ]

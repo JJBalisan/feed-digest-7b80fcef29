@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 80,
+      "title": "Rogue agents and incidents"
+    },
+    {
+      "startTime": 379,
+      "title": "Oversight and monitoring"
+    },
+    {
+      "startTime": 477,
+      "title": "Governance and policy"
+    },
+    {
+      "startTime": 681,
+      "title": "Compute and industry"
+    },
+    {
+      "startTime": 747,
+      "title": "Arguments about the field's own reasoning"
+    },
+    {
+      "startTime": 854,
+      "title": "The alignment journal and a relief paradox"
+    },
+    {
+      "startTime": 923,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 963,
+      "title": "Full read: Monitorability"
+    },
+    {
+      "startTime": 1391,
+      "title": "Full read: Greater good arguments"
+    }
+  ]
+}
