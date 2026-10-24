@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 58,
+      "title": "Rogue agents and incidents"
+    },
+    {
+      "startTime": 305,
+      "title": "Oversight and monitoring"
+    },
+    {
+      "startTime": 507,
+      "title": "Evals"
+    },
+    {
+      "startTime": 609,
+      "title": "Governance and policy"
+    },
+    {
+      "startTime": 775,
+      "title": "Economics"
+    },
+    {
+      "startTime": 834,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 908,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 933,
+      "title": "Full read: Simulated control evaluations"
+    },
+    {
+      "startTime": 1423,
+      "title": "Full read: Gemini holds a human persona"
+    }
+  ]
+}
