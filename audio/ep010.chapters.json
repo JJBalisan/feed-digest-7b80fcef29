@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 75,
+      "title": "Oversight and monitoring"
+    },
+    {
+      "startTime": 393,
+      "title": "Evals"
+    },
+    {
+      "startTime": 564,
+      "title": "Governance and economics"
+    },
+    {
+      "startTime": 692,
+      "title": "Other"
+    },
+    {
+      "startTime": 752,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 1158,
+      "title": "Full read: Shadow computation"
+    }
+  ]
+}

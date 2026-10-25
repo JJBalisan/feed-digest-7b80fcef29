@@ -104,5 +104,17 @@
     "music": true,
     "chapters": "audio/ep009.chapters.json",
     "cover": "covers/ep009.jpg"
+  },
+  {
+    "no": 10,
+    "date": "2026-10-25",
+    "title": "Who monitors the monitors",
+    "summary": "Chain of thought monitoring can lose its footing through shadow computation, and monitors can fail for reasons of values rather than skill. Full reads: Fabien Roger on monitor alignment assessments, and Skye on shadow computation.",
+    "file": "audio/ep010.mp3",
+    "bytes": 11896366,
+    "duration": "00:24:26",
+    "music": true,
+    "chapters": "audio/ep010.chapters.json",
+    "cover": "covers/ep010.jpg"
   }
 ]
