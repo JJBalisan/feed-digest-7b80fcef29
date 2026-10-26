@@ -116,5 +116,17 @@
     "music": true,
     "chapters": "audio/ep010.chapters.json",
     "cover": "covers/ep010.jpg"
+  },
+  {
+    "no": 11,
+    "date": "2026-10-26",
+    "title": "Graders, evals and the pacing letter",
+    "summary": "A course primer on the OpenAI cluster takeover and the pacing letter, the claim that evaluation errors flipped from over-eliciting to under-eliciting, and eval awareness as grader awareness, plus interpretability, the AI buildout and two ex-employee accounts of Anthropic. Full reads: From overeliciting to undereliciting LLM propensities, and Different eval awareness may track different graders.",
+    "file": "audio/ep011.mp3",
+    "bytes": 10453124,
+    "duration": "00:21:26",
+    "music": true,
+    "chapters": "audio/ep011.chapters.json",
+    "cover": "covers/ep011.jpg"
   }
 ]

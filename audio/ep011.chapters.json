@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 52,
+      "title": "Incidents and the primer"
+    },
+    {
+      "startTime": 284,
+      "title": "Evals and measurement"
+    },
+    {
+      "startTime": 390,
+      "title": "Interpretability"
+    },
+    {
+      "startTime": 496,
+      "title": "Money and power"
+    },
+    {
+      "startTime": 580,
+      "title": "Governance and policy"
+    },
+    {
+      "startTime": 650,
+      "title": "Method and other items"
+    },
+    {
+      "startTime": 724,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 738,
+      "title": "Full read: Overeliciting"
+    },
+    {
+      "startTime": 964,
+      "title": "Full read: Eval awareness and graders"
+    }
+  ]
+}
