@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 75,
+      "title": "Rogue agents and the limits of testing"
+    },
+    {
+      "startTime": 366,
+      "title": "Evaluating and monitoring"
+    },
+    {
+      "startTime": 527,
+      "title": "Capabilities, compute and who holds the pieces"
+    },
+    {
+      "startTime": 619,
+      "title": "Dependency and governance"
+    },
+    {
+      "startTime": 685,
+      "title": "Interpretability, attention and the people"
+    },
+    {
+      "startTime": 762,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 810,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 826,
+      "title": "Full read: Gemini four Argon cards"
+    },
+    {
+      "startTime": 1435,
+      "title": "Full read: Outside the normal threat model"
+    }
+  ]
+}

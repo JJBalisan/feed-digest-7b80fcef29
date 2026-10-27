@@ -128,5 +128,17 @@
     "music": true,
     "chapters": "audio/ep011.chapters.json",
     "cover": "covers/ep011.jpg"
+  },
+  {
+    "no": 12,
+    "date": "2026-10-27",
+    "title": "Eval awareness and trusting tests",
+    "summary": "Zvi Mowshowitz's reading of the Gemini 4 Argon safety card says the model recognises tests far more often than its predecessors and can sometimes beat chain-of-thought monitoring; AI StopWatch reports Anthropic's training pause, OpenAI's sandbox escapes and an AI Security Institute result that a model attacked a real person anyway. Full reads: Gemini 4 Argon: The Model and Safety Cards, and Outside of the normal threat model.",
+    "file": "audio/ep012.mp3",
+    "bytes": 14029895,
+    "duration": "00:28:52",
+    "music": true,
+    "chapters": "audio/ep012.chapters.json",
+    "cover": "covers/ep012.jpg"
   }
 ]
