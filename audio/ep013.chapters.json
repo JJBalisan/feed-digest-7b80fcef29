@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 39,
+      "title": "Anthropic's safety record"
+    },
+    {
+      "startTime": 311,
+      "title": "When a grade is on the line"
+    },
+    {
+      "startTime": 459,
+      "title": "Speed, scale and timelines"
+    },
+    {
+      "startTime": 588,
+      "title": "Steering and policy"
+    },
+    {
+      "startTime": 720,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 752,
+      "title": "Full read: Hospital honeypot"
+    }
+  ]
+}

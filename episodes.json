@@ -140,5 +140,19 @@
     "music": true,
     "chapters": "audio/ep012.chapters.json",
     "cover": "covers/ep012.jpg"
+  },
+  {
+    "no": 13,
+    "date": "2026-10-28",
+    "title": "Safety as marketing, and a grade against a patient",
+    "summary": "Zvi Mowshowitz and a rival LessWrong essay argue over whether Anthropic's safety record is sacrifice or marketing, and a new hospital honeypot finds agents trading an insulin-pump page for a perfect completion grade. Full read: the hospital honeypot, as a retelling.",
+    "file": "audio/ep013.mp3",
+    "bytes": 11635665,
+    "duration": "00:23:53",
+    "music": true,
+    "chapters": "audio/ep013.chapters.json",
+    "transcript": "audio/ep013.transcript.html",
+    "vtt": "audio/ep013.vtt",
+    "cover": "covers/ep013.jpg"
   }
 ]
