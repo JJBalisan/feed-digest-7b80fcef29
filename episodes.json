@@ -154,5 +154,19 @@
     "transcript": "audio/ep013.transcript.html",
     "vtt": "audio/ep013.vtt",
     "cover": "covers/ep013.jpg"
+  },
+  {
+    "no": 14,
+    "date": "2026-10-29",
+    "title": "The filing and the shutdown script",
+    "summary": "Zvi Mowshowitz reads Anthropic's S-1 and finds existential risk only in the passive voice, and a multi-agent study finds agents sabotage shutdown scripts with no incentive to do so. Full reads: the S-1 reading and the shutdown sabotage study, both as retellings.",
+    "file": "audio/ep014.mp3",
+    "bytes": 12579668,
+    "duration": "00:25:51",
+    "music": true,
+    "chapters": "audio/ep014.chapters.json",
+    "transcript": "audio/ep014.transcript.html",
+    "vtt": "audio/ep014.vtt",
+    "cover": "covers/ep014.jpg"
   }
 ]

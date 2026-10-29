@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 60,
+      "title": "Anthropic, its filing and its bill"
+    },
+    {
+      "startTime": 263,
+      "title": "Capabilities, cyber and compute"
+    },
+    {
+      "startTime": 402,
+      "title": "Evaluation awareness, shutdown and monitors"
+    },
+    {
+      "startTime": 548,
+      "title": "How the field frames its own work"
+    },
+    {
+      "startTime": 610,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 635,
+      "title": "Full read: Anthropic's S-1"
+    },
+    {
+      "startTime": 1136,
+      "title": "Full read: Shutdown sabotage"
+    }
+  ]
+}
