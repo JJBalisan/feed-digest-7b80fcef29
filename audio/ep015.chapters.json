@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 51,
+      "title": "Agents that get out"
+    },
+    {
+      "startTime": 314,
+      "title": "What the tools can and cannot read"
+    },
+    {
+      "startTime": 449,
+      "title": "What labs say about themselves"
+    },
+    {
+      "startTime": 564,
+      "title": "Economics of automation"
+    },
+    {
+      "startTime": 633,
+      "title": "Data, voters and data centres"
+    },
+    {
+      "startTime": 768,
+      "title": "Other"
+    },
+    {
+      "startTime": 810,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 826,
+      "title": "Full read: Alignment faking"
+    },
+    {
+      "startTime": 1158,
+      "title": "Full read: Rogue agents in India"
+    }
+  ]
+}

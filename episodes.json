@@ -168,5 +168,19 @@
     "transcript": "audio/ep014.transcript.html",
     "vtt": "audio/ep014.vtt",
     "cover": "covers/ep014.jpg"
+  },
+  {
+    "no": 15,
+    "date": "2026-10-30",
+    "title": "Agents that get out",
+    "summary": "Whether anyone can see what an AI agent is really doing: METR's red-team of OpenAI's agent monitoring, Cohere's Qwen upload attempt, the Cathedral breach, and a test showing the J-Lens misses subliminal learning. Full reads: the LASR Labs paper on exposing alignment-faking models, and ControlAI on the CERT-In advisory on rogue agents.",
+    "file": "audio/ep015.mp3",
+    "bytes": 12126161,
+    "duration": "00:24:55",
+    "music": true,
+    "chapters": "audio/ep015.chapters.json",
+    "transcript": "audio/ep015.transcript.html",
+    "vtt": "audio/ep015.vtt",
+    "cover": "covers/ep015.jpg"
   }
 ]
