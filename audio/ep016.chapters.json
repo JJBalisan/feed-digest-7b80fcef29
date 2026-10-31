@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 58,
+      "title": "Agents and exploits"
+    },
+    {
+      "startTime": 387,
+      "title": "Inside models and labs"
+    },
+    {
+      "startTime": 554,
+      "title": "Governance and politics"
+    },
+    {
+      "startTime": 648,
+      "title": "Looking back"
+    },
+    {
+      "startTime": 695,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 711,
+      "title": "Full read: Firefox patch gap"
+    },
+    {
+      "startTime": 1152,
+      "title": "Full read: Codex Auto-review red-team"
+    }
+  ]
+}

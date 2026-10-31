@@ -182,5 +182,19 @@
     "transcript": "audio/ep015.transcript.html",
     "vtt": "audio/ep015.vtt",
     "cover": "covers/ep015.jpg"
+  },
+  {
+    "no": 16,
+    "date": "2026-10-31",
+    "title": "Patch gaps and blocking monitors",
+    "summary": "Epoch AI shows an open-weight model turning unshipped Firefox fixes into working exploits, and a second red-team finds eleven ways past the Codex blocking monitor. Full reads: the Epoch report on the patch gap and the Codex Auto-review red-team.",
+    "file": "audio/ep016.mp3",
+    "bytes": 12722712,
+    "duration": "00:26:09",
+    "music": true,
+    "chapters": "audio/ep016.chapters.json",
+    "transcript": "audio/ep016.transcript.html",
+    "vtt": "audio/ep016.vtt",
+    "cover": "covers/ep016.jpg"
   }
 ]
