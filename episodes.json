@@ -196,5 +196,19 @@
     "transcript": "audio/ep016.transcript.html",
     "vtt": "audio/ep016.vtt",
     "cover": "covers/ep016.jpg"
+  },
+  {
+    "no": 17,
+    "date": "2026-11-01",
+    "title": "Warning shots and sanity checks",
+    "summary": "A former DeepMind safety researcher explains the Hugging Face breach to Indian policymakers, and two essays argue over what the safety community should do: certified deployment hosts versus stopping unilaterally. Full reads: a rebuttal of a sparse autoencoder sanity check, and the Trusted Deployer proposal, both retold.",
+    "file": "audio/ep017.mp3",
+    "bytes": 15965804,
+    "duration": "00:32:55",
+    "music": true,
+    "chapters": "audio/ep017.chapters.json",
+    "transcript": "audio/ep017.transcript.html",
+    "vtt": "audio/ep017.vtt",
+    "cover": "covers/ep017.jpg"
   }
 ]

@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 69,
+      "title": "Warning shots"
+    },
+    {
+      "startTime": 282,
+      "title": "Regulate the deployment"
+    },
+    {
+      "startTime": 487,
+      "title": "Against stopping unilaterally"
+    },
+    {
+      "startTime": 621,
+      "title": "What interpretability can show"
+    },
+    {
+      "startTime": 782,
+      "title": "Minds, politics and honesty"
+    },
+    {
+      "startTime": 976,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 995,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 1011,
+      "title": "Full read: Autoencoder sanity checks"
+    },
+    {
+      "startTime": 1432,
+      "title": "Full read: Regulating deployment"
+    }
+  ]
+}
