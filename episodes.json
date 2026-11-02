@@ -210,19 +210,5 @@
     "transcript": "audio/ep017.transcript.html",
     "vtt": "audio/ep017.vtt",
     "cover": "covers/ep017.jpg"
-  },
-  {
-    "no": 18,
-    "date": "2026-11-02",
-    "title": "Warning shots and certified hosts",
-    "summary": "A former DeepMind safety researcher's talk to Indian policymakers on the Hugging Face breach, a plan to regulate deployment through certified hosts, an essay against unilateral stopping, and two interpretability posts on sparse autoencoders and belief states. Full reads: the Delhi talk on pacing the frontier, and the Trusted Deployers proposal.",
-    "file": "audio/ep018.mp3",
-    "bytes": 17567872,
-    "duration": "00:36:15",
-    "music": true,
-    "chapters": "audio/ep018.chapters.json",
-    "transcript": "audio/ep018.transcript.html",
-    "vtt": "audio/ep018.vtt",
-    "cover": "covers/ep018.jpg"
   }
 ]
