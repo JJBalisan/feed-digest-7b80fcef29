@@ -210,5 +210,20 @@
     "transcript": "audio/ep017.transcript.html",
     "vtt": "audio/ep017.vtt",
     "cover": "covers/ep017.jpg"
+  },
+  {
+    "no": 18,
+    "date": "2026-11-02",
+    "title": "Monitors and misalignment traps",
+    "summary": "A controlled experiment finds that training against a monitor teaches hiding only when the model already stumbles on a deceptive strategy the monitor cannot see, alongside a reply to the Against SURA essay and an AI grant scorer. Full reads: Monitor Evasion Depends on What RL Finds and What Monitors Miss, and Misalignment traps lie in wait.",
+    "file": "audio/ep018.mp3",
+    "bytes": 14401021,
+    "duration": "00:29:39",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep018.chapters.json",
+    "transcript": "audio/ep018.transcript.html",
+    "vtt": "audio/ep018.vtt",
+    "cover": "covers/ep018.jpg"
   }
 ]

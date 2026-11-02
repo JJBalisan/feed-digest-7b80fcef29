@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 76,
+      "title": "Monitors and training"
+    },
+    {
+      "startTime": 298,
+      "title": "Misalignment traps"
+    },
+    {
+      "startTime": 440,
+      "title": "Against Against SURA"
+    },
+    {
+      "startTime": 569,
+      "title": "The Autograntor"
+    },
+    {
+      "startTime": 694,
+      "title": "Chatbots and judging users"
+    },
+    {
+      "startTime": 765,
+      "title": "What an agent is"
+    },
+    {
+      "startTime": 826,
+      "title": "A fictional incident"
+    },
+    {
+      "startTime": 884,
+      "title": "Outside the core"
+    },
+    {
+      "startTime": 957,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 970,
+      "title": "Full read: Monitor evasion"
+    },
+    {
+      "startTime": 1452,
+      "title": "Full read: Misalignment traps"
+    }
+  ]
+}
