@@ -224,6 +224,7 @@
     "chapters": "audio/ep018.chapters.json",
     "transcript": "audio/ep018.transcript.html",
     "vtt": "audio/ep018.vtt",
-    "cover": "covers/ep018.jpg"
+    "cover": "covers/ep018.jpg",
+    "guid": "feed-digest-ep018-20261102"
   }
 ]
