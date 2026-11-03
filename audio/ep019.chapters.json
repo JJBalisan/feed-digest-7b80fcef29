@@ -1,0 +1,49 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 65,
+      "title": "When monitors fail"
+    },
+    {
+      "startTime": 225,
+      "title": "Score-seeking"
+    },
+    {
+      "startTime": 352,
+      "title": "Misalignment traps"
+    },
+    {
+      "startTime": 429,
+      "title": "A fictional disclosure"
+    },
+    {
+      "startTime": 492,
+      "title": "Unilateral pauses"
+    },
+    {
+      "startTime": 622,
+      "title": "How labs want to be governed"
+    },
+    {
+      "startTime": 771,
+      "title": "The SEC and Anthropic"
+    },
+    {
+      "startTime": 834,
+      "title": "Insurance as a safety lever"
+    },
+    {
+      "startTime": 899,
+      "title": "Verification and building the field"
+    },
+    {
+      "startTime": 1005,
+      "title": "Also noted"
+    }
+  ]
+}

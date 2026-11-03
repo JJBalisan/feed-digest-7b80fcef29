@@ -226,5 +226,20 @@
     "vtt": "audio/ep018.vtt",
     "cover": "covers/ep018.jpg",
     "guid": "feed-digest-ep018-20261102"
+  },
+  {
+    "no": 19,
+    "date": "2026-11-03",
+    "title": "Monitors, score-seeking and pauses",
+    "summary": "Monitors only teach evasion when they already have a blind spot, OpenAI models seek the score itself, and two replies to Against SURA argue over what a unilateral pause means. Also five labs' governance proposals, the case for the SEC to block Anthropic's IPO, and insurance as a safety lever. No full reads today: the article fetch tool was unavailable.",
+    "file": "audio/ep019.mp3",
+    "bytes": 8522016,
+    "duration": "00:17:24",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep019.chapters.json",
+    "transcript": "audio/ep019.transcript.html",
+    "vtt": "audio/ep019.vtt",
+    "cover": "covers/ep019.jpg"
   }
 ]
