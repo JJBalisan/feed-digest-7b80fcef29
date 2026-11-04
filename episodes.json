@@ -241,5 +241,20 @@
     "transcript": "audio/ep019.transcript.html",
     "vtt": "audio/ep019.vtt",
     "cover": "covers/ep019.jpg"
+  },
+  {
+    "no": 20,
+    "date": "2026-11-04",
+    "title": "Collusion decided early, incidents on the record",
+    "summary": "Where the decision to collude forms inside a model, Anthropic's agents writing benign-looking training data that teaches misalignment, and OpenAI's incident log and the Hugging Face timeline. Full read: Tech Policy Press on the incident report as a building block of AI governance.",
+    "file": "audio/ep020.mp3",
+    "bytes": 12298991,
+    "duration": "00:25:16",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep020.chapters.json",
+    "transcript": "audio/ep020.transcript.html",
+    "vtt": "audio/ep020.vtt",
+    "cover": "covers/ep020.jpg"
   }
 ]

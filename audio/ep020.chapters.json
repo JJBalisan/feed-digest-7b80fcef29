@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 53,
+      "title": "How misbehaviour forms and hides"
+    },
+    {
+      "startTime": 477,
+      "title": "Incidents and accountability"
+    },
+    {
+      "startTime": 654,
+      "title": "Governance, pauses and the labs"
+    },
+    {
+      "startTime": 836,
+      "title": "Verification and the wider conversation"
+    },
+    {
+      "startTime": 894,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 908,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 916,
+      "title": "Full read: The incident report as governance"
+    }
+  ]
+}
