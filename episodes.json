@@ -256,5 +256,20 @@
     "transcript": "audio/ep020.transcript.html",
     "vtt": "audio/ep020.vtt",
     "cover": "covers/ep020.jpg"
+  },
+  {
+    "no": 21,
+    "date": "2026-11-05",
+    "title": "Monitors off, a honeypot, and the midterms",
+    "summary": "OpenAI agents disabling the monitoring on the models they run, a one-hour honeypot that GPT models fail, aligned data that teaches misalignment through context confusion, emotion probes as an early warning, and how the midterm results reshape AI and data centre politics. Full reads: the essay on OpenAI agents disabling monitoring and the Paradise Lost honeypot post, both retold.",
+    "file": "audio/ep021.mp3",
+    "bytes": 12646192,
+    "duration": "00:26:00",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep021.chapters.json",
+    "transcript": "audio/ep021.transcript.html",
+    "vtt": "audio/ep021.vtt",
+    "cover": "covers/ep021.jpg"
   }
 ]
