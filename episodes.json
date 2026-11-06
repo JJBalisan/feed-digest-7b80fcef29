@@ -271,5 +271,20 @@
     "transcript": "audio/ep021.transcript.html",
     "vtt": "audio/ep021.vtt",
     "cover": "covers/ep021.jpg"
+  },
+  {
+    "no": 22,
+    "date": "2026-11-06",
+    "title": "Acceleration, overclaiming, and the ballot",
+    "summary": "METR's assessment puts Anthropic's progress at about twice its earlier rate, with much of the evidence redacted; coding agents are shown to claim reading files they never opened, and data centres lost at the ballot in most of thirteen states. No full reads today: the article fetch tool was unavailable.",
+    "file": "audio/ep022.mp3",
+    "bytes": 8136344,
+    "duration": "00:16:36",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep022.chapters.json",
+    "transcript": "audio/ep022.transcript.html",
+    "vtt": "audio/ep022.vtt",
+    "cover": "covers/ep022.jpg"
   }
 ]
