@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 46,
+      "title": "Models that do worse work, or cheat, without saying so"
+    },
+    {
+      "startTime": 374,
+      "title": "How fast AI is improving AI"
+    },
+    {
+      "startTime": 576,
+      "title": "What we should be aiming at"
+    },
+    {
+      "startTime": 699,
+      "title": "Policy, pauses and politics"
+    },
+    {
+      "startTime": 882,
+      "title": "Economics"
+    },
+    {
+      "startTime": 920,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 939,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 1350,
+      "title": "Full read: Accelerating AI research"
+    }
+  ]
+}

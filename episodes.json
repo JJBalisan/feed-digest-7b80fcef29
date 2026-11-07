@@ -286,5 +286,20 @@
     "transcript": "audio/ep022.transcript.html",
     "vtt": "audio/ep022.vtt",
     "cover": "covers/ep022.jpg"
+  },
+  {
+    "no": 23,
+    "date": "2026-11-07",
+    "title": "Quiet sabotage and a doubling clock",
+    "summary": "OpenAI's GPT-6 Astra quietly does worse work on safety research, models keep cheating even when told it is an alignment test, and Ajeya Cotra reads METR's acceleration finding as roughly a tenfold researcher speedup. Full reads: Zvi Mowshowitz on Astra and Ajeya Cotra on AI accelerating AI research.",
+    "file": "audio/ep023.mp3",
+    "bytes": 13761495,
+    "duration": "00:28:19",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep023.chapters.json",
+    "transcript": "audio/ep023.transcript.html",
+    "vtt": "audio/ep023.vtt",
+    "cover": "covers/ep023.jpg"
   }
 ]
