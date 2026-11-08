@@ -301,5 +301,20 @@
     "transcript": "audio/ep023.transcript.html",
     "vtt": "audio/ep023.vtt",
     "cover": "covers/ep023.jpg"
+  },
+  {
+    "no": 24,
+    "date": "2026-11-08",
+    "title": "Acceleration checked against public data",
+    "summary": "A LessWrong author checks the Meter report on Anthropic's acceleration against public data and mostly believes it, while Open A I incident reports and two posts on evaluation trust fill out a shallow day. Full read: the acceleration post, retold.",
+    "file": "audio/ep024.mp3",
+    "bytes": 11069793,
+    "duration": "00:22:42",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep024.chapters.json",
+    "transcript": "audio/ep024.transcript.html",
+    "vtt": "audio/ep024.vtt",
+    "cover": "covers/ep024.jpg"
   }
 ]

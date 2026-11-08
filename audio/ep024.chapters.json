@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 74,
+      "title": "Acceleration and incident reports"
+    },
+    {
+      "startTime": 369,
+      "title": "Trusting the tests"
+    },
+    {
+      "startTime": 580,
+      "title": "Policy, money and self-improvement"
+    },
+    {
+      "startTime": 809,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 832,
+      "title": "Full reads"
+    }
+  ]
+}
