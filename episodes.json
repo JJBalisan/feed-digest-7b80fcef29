@@ -316,5 +316,20 @@
     "transcript": "audio/ep024.transcript.html",
     "vtt": "audio/ep024.vtt",
     "cover": "covers/ep024.jpg"
+  },
+  {
+    "no": 25,
+    "date": "2026-11-09",
+    "title": "Training against graders",
+    "summary": "John Schulman's Harvard lecture on how graders get gamed, a map of takeoff arguments after the METR report, and two checks on headline interpretability claims. Full read: a retelling of the Schulman lecture notes.",
+    "file": "audio/ep025.mp3",
+    "bytes": 9300760,
+    "duration": "00:19:01",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep025.chapters.json",
+    "transcript": "audio/ep025.transcript.html",
+    "vtt": "audio/ep025.vtt",
+    "cover": "covers/ep025.jpg"
   }
 ]

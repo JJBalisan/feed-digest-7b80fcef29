@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 67,
+      "title": "Training against graders"
+    },
+    {
+      "startTime": 243,
+      "title": "Checking claims about reading models"
+    },
+    {
+      "startTime": 451,
+      "title": "Building the field"
+    },
+    {
+      "startTime": 586,
+      "title": "Technology, patience and politics"
+    },
+    {
+      "startTime": 709,
+      "title": "Full read: Grading and reward hacking"
+    }
+  ]
+}
