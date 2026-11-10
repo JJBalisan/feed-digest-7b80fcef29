@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 59,
+      "title": "Graders and reward hacking"
+    },
+    {
+      "startTime": 207,
+      "title": "Checking is failing"
+    },
+    {
+      "startTime": 446,
+      "title": "Governance and policy"
+    },
+    {
+      "startTime": 542,
+      "title": "Compute and industry"
+    },
+    {
+      "startTime": 653,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 675,
+      "title": "Full read: Does Google DeepMind train on thoughts"
+    },
+    {
+      "startTime": 1003,
+      "title": "Full read: Seizing Anthropic at a discount"
+    }
+  ]
+}

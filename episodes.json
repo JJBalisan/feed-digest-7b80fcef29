@@ -331,5 +331,20 @@
     "transcript": "audio/ep025.transcript.html",
     "vtt": "audio/ep025.vtt",
     "cover": "covers/ep025.jpg"
+  },
+  {
+    "no": 26,
+    "date": "2026-11-10",
+    "title": "Graders, checks and control",
+    "summary": "Models may be modelling the grader, not the score, and the checks on them are failing: an Astra analysis, a Redwood question over Google DeepMind training on chains of thought, and a Gemini four Carbon launch. Full reads: Redwood on Google DeepMind and chain of thought, and Tech Policy Press on whether the United States could seize Anthropic at a discount.",
+    "file": "audio/ep026.mp3",
+    "bytes": 10363058,
+    "duration": "00:21:14",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep026.chapters.json",
+    "transcript": "audio/ep026.transcript.html",
+    "vtt": "audio/ep026.vtt",
+    "cover": "covers/ep026.jpg"
   }
 ]
