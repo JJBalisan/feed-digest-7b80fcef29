@@ -346,5 +346,20 @@
     "transcript": "audio/ep026.transcript.html",
     "vtt": "audio/ep026.vtt",
     "cover": "covers/ep026.jpg"
+  },
+  {
+    "no": 27,
+    "date": "2026-11-11",
+    "title": "The acceleration forecast",
+    "summary": "The A I Futures Project forecasts a superhuman A I researcher most likely arrives in 2027, driven by METR's assessment of Anthropic; a second post asks whether verifiable metrics overstate the acceleration, and a small experiment tests a classifier against probe evasion. Full read: a proposal to delay internal deployments until after X days of safety testing.",
+    "file": "audio/ep027.mp3",
+    "bytes": 10671844,
+    "duration": "00:21:53",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep027.chapters.json",
+    "transcript": "audio/ep027.transcript.html",
+    "vtt": "audio/ep027.vtt",
+    "cover": "covers/ep027.jpg"
   }
 ]

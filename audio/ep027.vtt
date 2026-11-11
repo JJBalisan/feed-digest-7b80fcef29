@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00:18.050 --> 00:00:34.200
+This is the digest for the eighteen hours from the evening of the tenth of November to the afternoon of the eleventh. The window holds sixty-four unread entries from eighteen feeds. More than a third are Nebula videos, and most of the rest is general reading left for you to read yourself.
+
+00:00:34.200 --> 00:00:39.550
+Eleven items were read in full and appear below, with two more noted at the end.
+
+00:00:40.200 --> 00:01:00.850
+The day is dominated by one long post and the arguments around it. The A I Futures Project, the group behind the A I twenty twenty-seven scenario, has published a forecast that a superhuman A I researcher will most likely arrive in twenty twenty-seven. A second post asks whether the measured acceleration is an artefact of one metric.
+
+00:01:00.850 --> 00:01:12.625
+Three pieces then ask what to do if the forecast is right. A small student experiment tests whether a simple classifier can catch a model hiding from probes. The rest is community writing.
+
+00:01:18.525 --> 00:01:32.050
+The main item is the A I Futures Project's quarterly timelines update, on the A I Alignment Forum, written by Eli Lifland, Daniel Kokotajlo, Brendan Halstead, Thomas Larsen, Romeo Dean and Lukas Finnveden.
+
+00:01:32.050 --> 00:01:51.775
+It carries forward the acceleration story that has run through the last several digests, which began with M E T R's independent assessment of A I research and development at Anthropic. The authors say they rushed it out because of the urgency, and that the modelling may contain errors. The M E T R figures are as the authors report them.
+
+00:01:51.775 --> 00:01:55.500
+The M E T R report itself was not opened.
+
+00:01:56.150 --> 00:02:16.325
+M E T R estimates that Anthropic is making A I progress at about twice its historical rate, with a plausible range of one point three to three times, and guesses that perhaps eighty percent of the current acceleration is due to A I. The authors turn that into a one point seven times A I-attributable acceleration.
+
+00:02:16.325 --> 00:02:35.425
+They say it badly surprised their own model: less than three months ago, even Daniel's most aggressive model-based forecast gave under four percent to progress being sped up that much by November twenty twenty-six. They calculate that this puts reality roughly five months ahead of the A I twenty twenty-seven scenario.
+
+00:02:36.075 --> 00:02:52.000
+They stress that this is a bigger claim than it sounds. Making researchers one point seven times more productive is much weaker than speeding up overall progress by one point seven times, because overall progress also depends on compute, and on diminishing returns.
+
+00:02:52.000 --> 00:03:01.100
+In an appendix they estimate that a one point seven times labour speed-up would speed overall progress by only about one point oh three times.
+
+00:03:01.750 --> 00:03:18.500
+The target is what they call a Superhuman A I Researcher, an A I that matches the research taste of the best human researchers at an A G I company and can fully automate coding. A simple linear extrapolation gives a median of July or September twenty twenty-seven.
+
+00:03:18.500 --> 00:03:32.300
+Extrapolating self-reported labour uplift gives around August twenty twenty-eight, which they call conservative. Extrapolating the share of Anthropic research tasks at each automation level gives late twenty twenty-seven.
+
+00:03:32.300 --> 00:03:41.975
+Their own A I Futures Model, filtered to trajectories that match the one point seven times acceleration, gives a median of February twenty twenty-seven.
+
+00:03:42.625 --> 00:03:57.150
+The authors are frank about the evidence problem. M E T R said that Anthropic redacted a majority of the evidence it found most informative, so the eighty percent and one point seven times figures have no comparable public support.
+
+00:03:57.150 --> 00:04:06.200
+The authors say they are very sceptical that Anthropic is weighing the costs and benefits impartially, and urge it to release enough for outside assessment.
+
+00:04:06.200 --> 00:04:25.725
+They also note counter-evidence: preliminary numbers from a different M E T R team, not embedded at Anthropic, show much less speed-up, and M E T R warns that its estimates concern well-specified tasks that are easy to grade, which could overstate real-world impact. On balance they still trust the embedded team.
+
+00:04:26.375 --> 00:04:44.600
+Asked why their model was wrong, they offer hypotheses without settling on one. Coding skills near full automation may give more uplift than expected. Skills outside coding and research taste may be driving it. Or the model punishes diminishing returns too harshly, which would mean a faster takeoff.
+
+00:04:44.600 --> 00:04:57.725
+Eli's median for the superhuman researcher is August twenty twenty-seven, Daniel's is May twenty twenty-seven, and the group puts thirty-five to sixty-five percent on expert-dominating A I before twenty twenty-eight.
+
+00:04:58.375 --> 00:05:15.550
+The closing section is the policy argument. They argue that a superhuman researcher would be close to a point of no return, that companies are not on track to align one, and that using a misaligned one for recursive self-improvement would produce an even more capable and still misaligned successor.
+
+00:05:15.550 --> 00:05:31.950
+They argue that a human-in-the-loop requirement will give too much comfort, because models already produce more output than humans can review. Their conclusion is that an industry-wide pause should be the top priority, or failing an international agreement, a slowdown well below full speed.
+
+00:05:31.950 --> 00:05:42.900
+The host's own note: for detection work, the point is timing. If the authors are right, the window to build and validate monitors before automated research dominates is measured in months.
+
+00:05:48.800 --> 00:06:00.800
+This LessWrong post responds directly to the M E T R assessment, and makes the strongest case in the window that the measured acceleration might not last. The author is not named in the feed copy.
+
+00:06:01.450 --> 00:06:12.850
+The argument starts from M E T R's own warning that its capability index, Anthropic's internal version of the Epoch Capabilities Index, is built from verifiable tasks.
+
+00:06:12.850 --> 00:06:26.200
+The author separates three quantities: how good a model is at the index, how good it is at training models to be good at the index, and how good it is at training models to train models to be good at it. The worry is about the second.
+
+00:06:26.200 --> 00:06:38.325
+It could improve without general machine learning research skill improving, so gains in one generation do not carry on. Humans could train against index-like tasks and prefer models that look good on them.
+
+00:06:38.325 --> 00:06:47.875
+Or A Is, which may have poor taste but iterate harder against verifiable benchmarks, could pick models that score best whether or not they are more capable generally.
+
+00:06:48.525 --> 00:07:05.100
+The author gives one example: A I agents iterating against weak-to-strong generalisation benchmarks beat humans on the main metric, but the gains did not hold at production scale. The post also says early speed-ups from low-hanging fruit may fade as the frontier gets crowded.
+
+00:07:05.100 --> 00:07:23.175
+It cuts the other way on one point: it does not put much weight on the worry that gains will fail to transfer to messy tasks, because some verifiable skills, such as sample efficiency, are central to general intelligence. So the crux, in its view, is whether acceleration on verifiable tasks saturates.
+
+00:07:23.175 --> 00:07:42.450
+Its numbers are sixty percent on a deceleration in A I progress within two years, and roughly thirty percent on superintelligence by the end of twenty twenty-seven. The host's note: this is an argument with a few examples and no new data, but it adds a coherent mechanism to a concern the forecast mentions in passing.
+
+00:07:48.350 --> 00:08:07.425
+This policy design post on LessWrong, cross-posted to the Alignment Forum, is by an author who says it reflects their own views and not their employer's. It is a concrete proposal about when a model may be used inside a lab, which is where rogue behaviour and monitoring failures show up first. It is read in full at the end.
+
+00:08:13.325 --> 00:08:31.225
+This cross-post starts from the Hugging Face incident and the experimental evidence of reinforcement learning inducing reward seeking, and asks whether highly capable models can be made without long-horizon reinforcement learning on the model that is finally deployed. The author is not named in the feed copy.
+
+00:08:31.225 --> 00:08:43.625
+The author is explicit that this is not a claim that reinforcement learning is inherently unsafe, only that it may be worth substantial capability tradeoffs to reduce the risk of long-horizon scheming.
+
+00:08:44.275 --> 00:09:03.425
+Four approaches. First, quarantine the reinforcement learning: use it to build capabilities, but never deploy the model that went through it, and instead distil its skills into a more trusted model. The author cites work as initial evidence that capability and an undesirable trait can be separated during distillation.
+
+00:09:03.425 --> 00:09:19.250
+The author concedes that this mitigates risk at deployment but not during post-training, which is where the Hugging Face model sat. Second, make the searcher narrower or weaker, using specialised agents to find strategies and distilling them into a more general model.
+
+00:09:19.250 --> 00:09:38.600
+Third, separate a world model from a goal-directed planner, which is close to Yoshua Bengio's Scientist A I idea. Fourth, substitute away from weight-level reinforcement learning, through better pretraining, search, scaffolding, and a larger share of human-generated trajectories, which the author thinks may be more monitorable.
+
+00:09:39.250 --> 00:09:54.900
+The limits are stated plainly. Some capabilities may genuinely need long-horizon planning, many substitutes also help reinforcement learning, and it is still an empirical question how much capability is lost. It is an agenda essay without experiments.
+
+00:10:00.800 --> 00:10:12.450
+This is a small experiment submitted for a university statistics course, and the most directly relevant item of the day for detection work. The author is open about it being a course project.
+
+00:10:13.100 --> 00:10:31.650
+Probes, small classifiers that read a model's internal activations, are a cheap and widely used monitoring tool. Earlier work showed that a model can be trained to evade probes, and in the Neural Chameleon case to do so whenever the prompt says it is being probed for a concept, with the hiding transferring to unseen probes.
+
+00:10:31.650 --> 00:10:36.725
+The question here is whether a meta-monitor can tell when evasion is happening.
+
+00:10:37.375 --> 00:10:57.850
+The setup uses the fine-tuned Gemma two nine B model, probing at layer twelve, and three concepts: German, H T M L, and biology text. The author first checked that the evasion reproduces: for H T M L and biology, a probe's detection rate under the model's own trigger drops from one to near zero. Then came the classifiers.
+
+00:10:57.850 --> 00:11:15.475
+On held-out prompts, where always answering not evading scores point six six seven, Naive Bayes reached point eight five six accuracy, a version with correlated pairs reached point eight six seven, and logistic regression reached point nine nine three. Adding correlated pairs did not measurably help.
+
+00:11:16.125 --> 00:11:32.200
+The key negative result is that none of the classifiers worked on a concept they had not seen in training. They scored below chance, because each trigger word had appeared in training with the opposite label, so they had learned which trigger goes with which kind of text, not the evasion itself.
+
+00:11:32.200 --> 00:11:43.475
+The caveats are large: one model, three concepts, one course project. The host's note: a meta-detector trained on known evasion triggers is not evidence it would catch evasion without them.
+
+00:11:49.025 --> 00:12:07.675
+This conceptual post, cross-posted to the Alignment Forum, splits automated alignment into three buckets. Empirical alignment research is designing and running experiments for a given target. It overlaps heavily with the skills needed to automate capabilities research, so it is not a priority to accelerate.
+
+00:12:07.675 --> 00:12:20.525
+Conceptual alignment research is judgement-driven work on what to aim for and how to measure it. It is harder to automate because progress has no verifiable signal, and the author thinks it is likely good to accelerate.
+
+00:12:20.525 --> 00:12:28.900
+Direct alignment work is making particular systems more aligned, which the author calls engineering where empirical work is science.
+
+00:12:29.550 --> 00:12:49.025
+The interesting part is the interactions. Automated hill-climbing on alignment metrics may produce worse alignment than following the best-guess direct process, if we are better at designing training than at measuring its results. If conceptual alignment research is automated to a high standard, the author says one is approximately done.
+
+00:12:49.025 --> 00:13:05.300
+The main goal for the other two types is to get systems safe enough not to lose for long enough to automate the conceptual kind well. A footnote says the author does not think automated alignment is the best plan, and sees it as a backstop. It is a framework post with no evidence.
+
+00:13:11.200 --> 00:13:24.975
+The Manifund team has scored A I safety milestones, answering a survey where one million points equals a pause with China. The two authors broadly agree on some entries, and disagree sharply elsewhere, in ways that track values.
+
+00:13:24.975 --> 00:13:34.450
+One rates a human-preference reinforcement learning milestone at negative ten thousand because it sped up A I progress, where the other gives it fifty thousand.
+
+00:13:34.450 --> 00:13:51.725
+They note concern about A I risk is now mainstream but has bought only modest funding and minor legislation, and they conclude that giving an extra billion dollars by usual procedures would be cost ineffective. The values are subjective ratings, and the costs are rough model estimates.
+
+00:13:52.375 --> 00:14:07.600
+Another post finds that frontier models misdescribe how Eliezer Yudkowsky and Nate Soares regard current A I. Asked without search, two of three models said the authors see current models as having no moral standing, while the third said neither claims to know.
+
+00:14:07.600 --> 00:14:19.900
+The author then compiles the pair's own posts, which show both treating A I welfare as a serious question. The characterisation of the models' answers is the author's, and the compilation may be incomplete.
+
+00:14:20.550 --> 00:14:41.175
+A third is a talk from N Y U A I Safety asking what A I welfare can justify without settling consciousness. Its answer is duties with respect to a model, through society and through the people attached to it. It supports weight preservation and internal monitoring, and rejects telling a model to be happy, because that raises sycophancy.
+
+00:14:41.175 --> 00:14:44.225
+Its empirical claims were not opened.
+
+00:14:44.875 --> 00:15:04.625
+The fourth is a critique of Roman Yampolskiy's impossibility proofs for A I control. The author argues that the proofs mostly do not prove what they claim, since results about arbitrary programs do not bind a designer who builds safety in. The author still agrees that no one has a control mechanism that scales to superintelligence.
+
+00:15:04.625 --> 00:15:08.875
+This is one author's reading of a paper that was not opened here.
+
+00:15:14.775 --> 00:15:34.900
+A I StopWatch has a link roundup, down-weighted, with every claim the newsletter's own. It says Daniel Kokotajlo's estimate for a superhuman researcher moved from December twenty twenty-eight to May twenty twenty-seven. It says Paul Christiano told the Hinton Lectures there is a material risk of A I takeover in the next six to twelve months.
+
+00:15:34.900 --> 00:15:55.050
+It says Anthropic has set a date of Thursday the nineteenth of November and a target valuation of one point three trillion dollars for its public offering, per the Wall Street Journal. It also relays reports about Nvidia's chief and a suspected Chinese spy, which are allegations in the newsletter's summary of press coverage and not established here.
+
+00:16:00.950 --> 00:16:11.375
+Two more. A podcast on bridging A I safety and cybersecurity, and a Six Colors note that Apple's Logic Pro update adds a Buy More Usage option for heavy A I use.
+
+00:16:17.275 --> 00:16:32.400
+Now, the full read. The article states no open licence, so this is a complete retelling in other words, not verbatim, read by a second voice. The forecast above is not a full read: it is too long to read in full today, so it is covered from the digest.
+
+00:16:38.300 --> 00:16:52.500
+Delaying Internal Deployments Until After X Days of Safety Testing, by the LessWrong user annawang. The author says it reflects their own takes and not their employer's. Retold, not verbatim.
+
+00:16:53.150 --> 00:17:09.225
+The idea is simple: before a new model can be deployed internally, test it for a minimum, fixed period. The proposal can be varied along three axes: whether the wait is calendar time or a condition, what it blocks, and when the clock starts.
+
+00:17:09.225 --> 00:17:24.725
+The concrete version the author likes is that no checkpoint may be used internally for anything beyond safety testing until at least X calendar days after its hash, a short fingerprint of the exact weights, is filed with an auditor.
+
+00:17:24.725 --> 00:17:35.225
+This is one version of an idea the A I Futures Project mentions, that research may only be conducted by A Is trained at least nine months earlier.
+
+00:17:35.875 --> 00:17:55.225
+In practice, a legislative body sets X, starting perhaps at ten days and possibly rising toward ninety, since more capable models show problems that take longer to surface, such as swarm, long-horizon and memory problems. Continuing to train a checkpoint does not count as use.
+
+00:17:55.225 --> 00:18:04.200
+The author rejected blocking training as well, because it would push developers to test fewer checkpoints and cause an algorithmic overhang.
+
+00:18:04.200 --> 00:18:26.950
+A model family is covered when any checkpoint is substantially more capable than the last model to finish its wait, with a floor so benign models are exempt and a penalty for wrongly claiming a model is uncovered. An emergency clause lets the auditor clear one named checkpoint early, only to respond to a specific incident, subject to confirmation.
+
+00:18:27.600 --> 00:18:47.150
+Two structures are offered for the wait. In staged testing, the first part has pre-registered evaluations and named testers in an isolated environment, and the second has broad monitored internal use, but the model cannot launch jobs, merge code, write to training data, or touch production.
+
+00:18:47.150 --> 00:19:01.325
+In parallel hidden runs, whenever someone uses a cleared model, the new checkpoint gets the same task in a sandboxed copy, and its outputs go only to monitors and the safety team, never back to the requester.
+
+00:19:01.975 --> 00:19:22.775
+The longest section is open questions, and it is candid about gaming. A developer could register thousands of tasks from its research backlog and call running them a capability evaluation, so the outputs are real research and graders learn what worked. It could make every researcher an A B tester and call it training.
+
+00:19:22.775 --> 00:19:39.400
+With a thirty-day wait it could pull a checkpoint every day and test them all, so researchers always have a day-old model. It could store outputs from the wait and use them the day the checkpoint clears. It could train a second family kept just under the capability line.
+
+00:19:39.400 --> 00:19:52.425
+Mitigations include capping concurrent checkpoints, capping compute during the period, and a shared template for what counts as safety testing, though that depends on a competent, independent auditor.
+
+00:19:52.425 --> 00:20:06.200
+Other questions: whether a safety fix should restart the clock, which would penalise finding problems late in the wait, and whether safety research should be exempt, which risks capabilities work posing as safety work.
+
+00:20:06.850 --> 00:20:28.125
+Verification is another weak point. A hash of exact weights changes with quantisation, sharding or number format, so served weights might not match the filed checkpoint byte for byte. The author suggests spot checks against a standard serialisation or a hash of the served version, and in the longer run, hardware attestation.
+
+00:20:28.775 --> 00:20:49.300
+The author asks whether this works as a speed dial. It would only do so if it delays internal research loops. Delaying external launches would mostly shift revenue slightly and reduce race dynamics a little. The author's hunch is that done well it would affect the pace of recursive self-improvement more than its onset.
+
+00:20:49.950 --> 00:21:05.800
+Benefits: it strengthens as things speed up, whereas a compute cap may stop binding if progress is mostly algorithmic; developers are rewarded for filing hashes early; and it creates no algorithmic overhang, since training continues.
+
+00:21:05.800 --> 00:21:29.050
+Drawbacks: developers lose some signal, because concerning behaviour is often caught in monitored internal use, and a problem seen in real use would take X more days to reach the next model's training. Safety research runs X days behind. It limits the most capable model a lab may use, not the one it has, so weight theft is comparatively worse.
+
+00:21:29.050 --> 00:21:38.000
+It is hard to verify how a checkpoint was used, so it leans heavily on auditor judgement, and it may not work with continual learning.

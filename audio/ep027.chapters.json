@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 73,
+      "title": "The acceleration forecast"
+    },
+    {
+      "startTime": 343,
+      "title": "Do verifiable metrics overestimate recursive self-improvement"
+    },
+    {
+      "startTime": 463,
+      "title": "Delaying internal deployments"
+    },
+    {
+      "startTime": 488,
+      "title": "Reducing reinforcement learning pressure"
+    },
+    {
+      "startTime": 595,
+      "title": "A classifier against evasion"
+    },
+    {
+      "startTime": 704,
+      "title": "Types of automated alignment"
+    },
+    {
+      "startTime": 785,
+      "title": "Milestones, welfare and critique"
+    },
+    {
+      "startTime": 909,
+      "title": "A roundup"
+    },
+    {
+      "startTime": 955,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 972,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 993,
+      "title": "Full read: Delay internal deployment"
+    }
+  ]
+}
