@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 69,
+      "title": "Fable 5.2 and the system card"
+    },
+    {
+      "startTime": 327,
+      "title": "Eval paranoia"
+    },
+    {
+      "startTime": 498,
+      "title": "Detection and monitoring"
+    },
+    {
+      "startTime": 702,
+      "title": "Security, economics and the movement"
+    },
+    {
+      "startTime": 813,
+      "title": "Now, the full reads"
+    }
+  ]
+}

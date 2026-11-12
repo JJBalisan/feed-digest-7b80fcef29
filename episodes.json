@@ -361,5 +361,20 @@
     "transcript": "audio/ep027.transcript.html",
     "vtt": "audio/ep027.vtt",
     "cover": "covers/ep027.jpg"
+  },
+  {
+    "no": 28,
+    "date": "2026-11-12",
+    "title": "Fable 5.2 and the paranoid model",
+    "summary": "Zvi's review of the Fable and Mythos 5.2 system card, two opposed readings of Fable's evaluation paranoia, and Tom Davidson on the METR report, plus filler-token reasoning, swarm whistleblower agents and a contest to predict fine-tuning spillover. Full reads: peralice on Fable 5.2 being very paranoid, and Dean Valentine on eval awareness versus eval paranoia.",
+    "file": "audio/ep028.mp3",
+    "bytes": 12828376,
+    "duration": "00:26:22",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep028.chapters.json",
+    "transcript": "audio/ep028.transcript.html",
+    "vtt": "audio/ep028.vtt",
+    "cover": "covers/ep028.jpg"
   }
 ]
