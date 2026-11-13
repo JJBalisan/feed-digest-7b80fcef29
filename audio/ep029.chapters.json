@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 59,
+      "title": "Evaluation awareness"
+    },
+    {
+      "startTime": 379,
+      "title": "Hidden reasoning"
+    },
+    {
+      "startTime": 527,
+      "title": "Forecasts and pressure"
+    },
+    {
+      "startTime": 657,
+      "title": "Security, compute and industry"
+    },
+    {
+      "startTime": 742,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 778,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 791,
+      "title": "Full read: AI honeypots"
+    },
+    {
+      "startTime": 1195,
+      "title": "Full read: Huawei compute gap"
+    }
+  ]
+}

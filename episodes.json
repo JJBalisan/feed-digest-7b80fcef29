@@ -376,5 +376,20 @@
     "transcript": "audio/ep028.transcript.html",
     "vtt": "audio/ep028.vtt",
     "cover": "covers/ep028.jpg"
+  },
+  {
+    "no": 29,
+    "date": "2026-11-13",
+    "title": "Evaluations that know they are tests",
+    "summary": "How far to trust safety evaluations of models that suspect they are being tested, with a looped-transformer monitorability study and a one-year pause argument. Full reads: Future of AI Honeypots and Epoch's satellite estimate of Huawei's Horinger data center.",
+    "file": "audio/ep029.mp3",
+    "bytes": 12385343,
+    "duration": "00:25:27",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep029.chapters.json",
+    "transcript": "audio/ep029.transcript.html",
+    "vtt": "audio/ep029.vtt",
+    "cover": "covers/ep029.jpg"
   }
 ]
