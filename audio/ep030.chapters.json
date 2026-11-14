@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 56,
+      "title": "Agents that hide, argue, or bend their rules"
+    },
+    {
+      "startTime": 390,
+      "title": "Monitoring, hidden computation and swarms"
+    },
+    {
+      "startTime": 553,
+      "title": "Timelines, funding and governance"
+    },
+    {
+      "startTime": 637,
+      "title": "Public pressure and people"
+    },
+    {
+      "startTime": 690,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 1147,
+      "title": "Full read: Don't burn the boats"
+    }
+  ]
+}

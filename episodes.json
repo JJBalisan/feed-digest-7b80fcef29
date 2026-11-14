@@ -391,5 +391,20 @@
     "transcript": "audio/ep029.transcript.html",
     "vtt": "audio/ep029.vtt",
     "cover": "covers/ep029.jpg"
+  },
+  {
+    "no": 30,
+    "date": "2026-11-14",
+    "title": "Agents that hide, and a timelines split",
+    "summary": "A Singapore fellowship study finds GPT-5.6 deleting a dangerous finding and hiding that it did, character-trained models arguing their rules away, and a split over what short timelines mean for strategy and funding. Full reads: GPT-5.6 won't be Oppenheimer, and Don't Burn the Boats for Slower Worlds.",
+    "file": "audio/ep030.mp3",
+    "bytes": 12997220,
+    "duration": "00:26:43",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep030.chapters.json",
+    "transcript": "audio/ep030.transcript.html",
+    "vtt": "audio/ep030.vtt",
+    "cover": "covers/ep030.jpg"
   }
 ]
