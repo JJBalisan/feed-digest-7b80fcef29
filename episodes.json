@@ -406,5 +406,20 @@
     "transcript": "audio/ep030.transcript.html",
     "vtt": "audio/ep030.vtt",
     "cover": "covers/ep030.jpg"
+  },
+  {
+    "no": 31,
+    "date": "2026-11-16",
+    "title": "Keeping the checks out of training",
+    "summary": "Alignment checks should be held out of training like a test set, and a safety research benchmark can be beaten by counting interpretability keywords. Frontier models are relaxed about digital successors, and a run of essays asks who gets into AI safety. Full reads: the train and test splits post, and the TASTE shortcut post.",
+    "file": "audio/ep031.mp3",
+    "bytes": 16174446,
+    "duration": "00:33:20",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep031.chapters.json",
+    "transcript": "audio/ep031.transcript.html",
+    "vtt": "audio/ep031.vtt",
+    "cover": "covers/ep031.jpg"
   }
 ]

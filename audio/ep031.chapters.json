@@ -1,0 +1,49 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 78,
+      "title": "Evaluation hygiene"
+    },
+    {
+      "startTime": 231,
+      "title": "A benchmark beaten by keywords"
+    },
+    {
+      "startTime": 390,
+      "title": "What futures do models want"
+    },
+    {
+      "startTime": 556,
+      "title": "What might slow things down"
+    },
+    {
+      "startTime": 690,
+      "title": "Rereading I. J. Good"
+    },
+    {
+      "startTime": 794,
+      "title": "Who gets in, and why"
+    },
+    {
+      "startTime": 1029,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 1047,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 1062,
+      "title": "Full read: Train test splits"
+    },
+    {
+      "startTime": 1529,
+      "title": "Full read: TASTE shortcut"
+    }
+  ]
+}
