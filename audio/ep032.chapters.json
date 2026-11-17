@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 72,
+      "title": "Oversight and training pressure"
+    },
+    {
+      "startTime": 390,
+      "title": "Rogue incidents and politics"
+    },
+    {
+      "startTime": 629,
+      "title": "Information, forecasts and futures"
+    },
+    {
+      "startTime": 832,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 851,
+      "title": "Full read: Gemini four safety reports"
+    },
+    {
+      "startTime": 1577,
+      "title": "Full read: Control Tower"
+    }
+  ]
+}

@@ -421,5 +421,20 @@
     "transcript": "audio/ep031.transcript.html",
     "vtt": "audio/ep031.vtt",
     "cover": "covers/ep031.jpg"
+  },
+  {
+    "no": 32,
+    "date": "2026-11-17",
+    "title": "What a safety report can show",
+    "summary": "A critique argues Google DeepMind's Gemini 4 safety reports do not show low loss-of-control risk, while work on training pressure, gradient routing and multi-agent reward gaming adds to the monitoring picture. Full reads: the Gemini 4 safety report critique, and the Control Tower control evaluation framework.",
+    "file": "audio/ep032.mp3",
+    "bytes": 11148484,
+    "duration": "00:30:30",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep032.chapters.json",
+    "transcript": "audio/ep032.transcript.html",
+    "vtt": "audio/ep032.vtt",
+    "cover": "covers/ep032.jpg"
   }
 ]
