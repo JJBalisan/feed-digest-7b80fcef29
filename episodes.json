@@ -436,5 +436,20 @@
     "transcript": "audio/ep032.transcript.html",
     "vtt": "audio/ep032.vtt",
     "cover": "covers/ep032.jpg"
+  },
+  {
+    "no": 33,
+    "date": "2026-11-18",
+    "title": "The METR report and its arguments",
+    "summary": "The day is about METR's report on AI-assisted R&D at Anthropic and the argument over what it implies, what kill switches and hardening could buy, a new result on how planner agents pick up misalignment, and Jensen Huang's exit from Nvidia. Full reads: the kill switches post and the planner agents misalignment experiment.",
+    "file": "audio/ep033.mp3",
+    "bytes": 10861749,
+    "duration": "00:29:42",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep033.chapters.json",
+    "transcript": "audio/ep033.transcript.html",
+    "vtt": "audio/ep033.vtt",
+    "cover": "covers/ep033.jpg"
   }
 ]

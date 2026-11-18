@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 54,
+      "title": "The METR report"
+    },
+    {
+      "startTime": 102,
+      "title": "Forecasters and jaggedness"
+    },
+    {
+      "startTime": 230,
+      "title": "Recursive self-improvement, for and against"
+    },
+    {
+      "startTime": 386,
+      "title": "Stopping agents, and speaking up"
+    },
+    {
+      "startTime": 549,
+      "title": "Misalignment that hides, and feature circuits"
+    },
+    {
+      "startTime": 621,
+      "title": "Smaller items"
+    },
+    {
+      "startTime": 748,
+      "title": "Compute, industry and politics"
+    },
+    {
+      "startTime": 873,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 900,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 922,
+      "title": "Full read: Kill switches"
+    },
+    {
+      "startTime": 1249,
+      "title": "Full read: Planner agents"
+    }
+  ]
+}
