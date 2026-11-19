@@ -1,0 +1,49 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 74,
+      "title": "Slowing down"
+    },
+    {
+      "startTime": 440,
+      "title": "Monitors and evals"
+    },
+    {
+      "startTime": 679,
+      "title": "An agent's safety notices"
+    },
+    {
+      "startTime": 756,
+      "title": "What the bills say"
+    },
+    {
+      "startTime": 869,
+      "title": "Capabilities, ethics and release notes"
+    },
+    {
+      "startTime": 1105,
+      "title": "The open web"
+    },
+    {
+      "startTime": 1170,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 1189,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 1208,
+      "title": "Full read: Pacing in practice"
+    },
+    {
+      "startTime": 1863,
+      "title": "Full read: Evaluation awareness in monitors"
+    }
+  ]
+}

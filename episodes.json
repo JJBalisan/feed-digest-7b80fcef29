@@ -451,5 +451,20 @@
     "transcript": "audio/ep033.transcript.html",
     "vtt": "audio/ep033.vtt",
     "cover": "covers/ep033.jpg"
+  },
+  {
+    "no": 34,
+    "date": "2026-11-19",
+    "title": "Pacing the frontier, and monitors that know they are tested",
+    "summary": "The day's feeds ask how anyone would slow AI down and verify it, from compute caps to speed limits, and show that monitors reason their way into worse verdicts when they notice they are being tested. Full reads: Anton Leicht's Putting Pacing Into Practice and the Redwood Research study of evaluation awareness in monitors.",
+    "file": "audio/ep034.mp3",
+    "bytes": 13797555,
+    "duration": "00:37:51",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep034.chapters.json",
+    "transcript": "audio/ep034.transcript.html",
+    "vtt": "audio/ep034.vtt",
+    "cover": "covers/ep034.jpg"
   }
 ]
