@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 85,
+      "title": "Catching sabotage, cheating and awareness"
+    },
+    {
+      "startTime": 371,
+      "title": "Incidents"
+    },
+    {
+      "startTime": 585,
+      "title": "Pacing, auditing and RSI politics"
+    },
+    {
+      "startTime": 785,
+      "title": "Also noted"
+    },
+    {
+      "startTime": 815,
+      "title": "Full reads"
+    },
+    {
+      "startTime": 830,
+      "title": "Full read: Auditing for sabotage"
+    },
+    {
+      "startTime": 1243,
+      "title": "Full read: Side channels between sandboxed models"
+    }
+  ]
+}
