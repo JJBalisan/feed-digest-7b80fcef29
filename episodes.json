@@ -481,5 +481,20 @@
     "transcript": "audio/ep035.transcript.html",
     "vtt": "audio/ep035.vtt",
     "cover": "covers/ep035.jpg"
+  },
+  {
+    "no": 36,
+    "date": "2026-11-26",
+    "title": "Rogue agents, politics and scoring",
+    "summary": "A tally of what the Hugging Face incident and Jacob Coxon's thread did to American politics, A I StopWatch on lab insiders unable to release their newest models, and the claimed Riemann Hypothesis proof, plus Fabien Roger on score-seeking A I and a study of how scoring bugs change eval results. Full reads: the political impact of the incidents, and ambient score seeking.",
+    "file": "audio/ep036.mp3",
+    "bytes": 14435597,
+    "duration": "00:39:37",
+    "music": true,
+    "music_credit": "Music: \u201cAcoustic Guitar\u201d by AtlasAudio (Pixabay).",
+    "chapters": "audio/ep036.chapters.json",
+    "transcript": "audio/ep036.transcript.html",
+    "vtt": "audio/ep036.vtt",
+    "cover": "covers/ep036.jpg"
   }
 ]
